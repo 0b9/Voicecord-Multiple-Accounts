@@ -59,5 +59,4 @@ def run_joiner(tokens):
 # Add your tokens here (replace "token1", "token2" and so on with your actual tokens)
 tokens = ["token1", "token2", "token3 and so on"]
 
-keep_alive()
 run_joiner(tokens)
